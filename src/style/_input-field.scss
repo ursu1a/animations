@@ -1,0 +1,21 @@
+.wrapper-input {
+    max-width: calc(100% - 70px);
+}
+//Input animation classes
+.input-field-enter {
+    opacity: 0;
+}
+
+.input-field-enter-active {
+    opacity: 1;
+    transition: opacity ease 200ms;
+}
+
+.input-field-exit-active {
+    opacity: 1;
+}
+
+.input-field-exit {
+    opacity: 0;
+    transition: opacity ease 200ms;
+}

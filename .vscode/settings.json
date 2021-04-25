@@ -1,0 +1,6 @@
+{
+   "prettier.useTabs": true,
+   "prettier.tabWidth": 3,
+   "editor.tabSize": 3,
+   "editor.fontSize": 13
+}
